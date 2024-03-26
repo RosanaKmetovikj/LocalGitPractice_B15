@@ -1,5 +1,5 @@
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("Test 2252");
+        System.out.println("New test case for password functionality");
     }
 }
